@@ -11,7 +11,8 @@ This is the repo for hosting proof arena tasks and specifications.
 |1| Keccak256 Hash | Test vectors https://emn178.github.io/online-tools/keccak_256.html | Polyhedra Network | Draft||
 |2| SHA256 Hash | Test vectors https://emn178.github.io/online-tools/sha256.html | Polyhedra Network | Draft||
 |3| ECDSA Signature | Test vectors https://emn178.github.io/online-tools/ecdsa_verify.html | Polyhedra Network | Draft||
-|4| Poseidon2 Hash | | Polyhedra Network | Draft||
+|4| Poseidon2 Hash M31 | | Polyhedra Network | Draft||
+|5| Poseidon2 Hash BN254 | | Polyhedra Network | Draft||
 
 
 ## Current Proof Systems
