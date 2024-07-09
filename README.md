@@ -17,7 +17,7 @@ This is the repo for hosting proof arena tasks and specifications.
 ## Current Proof Systems
 
 | Number | Proof system name | Proposer | Integration status |
-|--------|-----------|------------------|
+|--------|-----------|------------------|--------------------|
 |1| Expander |Polyhedra Network| In Progress |
 |2| DExpander |Polyhedra Network| In Progress|
 |3| Gnark |Polyhedra Network| In Progress|
