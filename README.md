@@ -21,4 +21,6 @@ This is the repo for hosting proof arena tasks and specifications.
 |--------|-----------|------------------|--------------------|
 |1| Expander |Polyhedra Network| In Progress |
 |2| DExpander |Polyhedra Network| In Progress|
-|3| Gnark |Polyhedra Network| In Progress|
+|3| Gnark | | |
+|4| Plonky3 | | |
+|5| Stwo | | |
