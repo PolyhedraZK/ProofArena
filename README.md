@@ -24,3 +24,6 @@ This is the repo for hosting proof arena tasks and specifications.
 |3| Gnark | | |
 |4| Plonky3 | | |
 |5| Stwo | | |
+|6| Risc0 | | |
+|7| SP1 | | |
+|8| Boojum | | |
